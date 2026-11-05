@@ -1,0 +1,1 @@
+psql -d lab1 -f 1_1_data.sql
